@@ -3,11 +3,16 @@
 > A premade Flask template!
 
 - [Flask-Vercel Hackpack](#flask-vercel-hackpack)
+  - [About FullyPacks 🐘🎁](#about-fullypacks-)
   - [About Flask](#about-flask)
   - [How to Deploy](#how-to-deploy)
     - [Automatic](#automatic)
     - [Manual](#manual)
   - [How to Run Locally](#how-to-run-locally)
+
+## About FullyPacks 🐘🎁
+
+Welcome to `fullypack_flask_vercel`, one of a [_curated collection of Github templates_](https://github.com/orgs/acmcsufoss/repositories?q=fullypack_&type=all&sort=stargazers) designed to kickstart your project and help you get up and running in no time!
 
 ## About Flask
 
