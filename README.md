@@ -71,5 +71,5 @@ Flask makes it easy to create a web application by providing a set of functions 
 7. Run the app:
 
    ```terminal
-   flask --app api/index.py run
+   flask --app api/index.py run --debug
    ```
